@@ -1,6 +1,6 @@
-# ninjaid
+# Esport
 
-Ninja ID project based on youtube
+Esport Individual Flutter
 
 ## Getting Started
 
